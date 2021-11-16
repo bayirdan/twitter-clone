@@ -1,0 +1,29 @@
+:root {
+  /* COLOR */
+  --active-color: #ffffff;
+  --bg-color: #000000;
+  --blue: #1d9bf0;
+  --green: rgb(0, 186, 124);
+  --red: rgb(249, 24, 148);
+  --border: rgba(255, 255, 255, 0.2);
+  --item-text-color: #d9d9d9;
+
+  --right-item-color: #202327;
+  --right-item-color2: #15181c;
+
+  --text-color-profile: #6e767d;
+
+  --btn-color: #ffffff;
+
+  /* HOVER */
+  --item-hover: rgba(255, 255, 255, 0.08);
+  --blue-hover: rgb(26, 140, 216);
+  --blue-hover-light: rgba(29, 155, 240, 0.1);
+  --green-hover: rgba(0, 186, 124, 0.1);
+  --red-hover: rgba(249, 24, 148, 0.1);
+  --logo-hover: rgba(255, 255, 255, 0.05);
+  --right-hover: rgba(255, 255, 255, 0.03);
+
+  /* transition */
+  --t2: background-color 0.2s;
+}
