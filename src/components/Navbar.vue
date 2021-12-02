@@ -232,7 +232,7 @@ import Profile from "./Navbar/Profile.vue";
   }
 }
 
-@media (max-height: 630px) {
+@media (max-height: 630px) and (min-width: 415px) {
   .navbar-box .menu-box .menu .items .item:nth-child(5),
   .navbar-box .menu-box .menu .items .item:nth-child(6) {
     display: none;
