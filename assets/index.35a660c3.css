@@ -186,7 +186,7 @@
     row-gap: 2px;
   }
 }
-@media (max-height: 630px) {
+@media (max-height: 630px) and (min-width: 416px) {
   .navbar-box .menu-box .menu .items .item[data-v-71730bcc]:nth-child(5),
   .navbar-box .menu-box .menu .items .item[data-v-71730bcc]:nth-child(6) {
     display: none;
