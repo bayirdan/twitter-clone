@@ -1,6 +1,6 @@
 # Twitter Template - Responsive
 
-This template is designed to be fully responsive, including mobile. 
+This template is designed to be fully responsive, including mobile. Used Vue as JS framework.
 
 ### Project Setup
 
