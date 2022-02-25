@@ -1,6 +1,6 @@
 # Twitter Template - Responsive
 
-This template is responsive designed by me. 
+This template is designed to be fully responsive, including mobile. 
 
 ### Project Setup
 
